@@ -34,11 +34,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__486 tech workers*__
+__487 tech workers*__
 
 签名，
 
-__486 名技术工作者*__
+__487 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -198,6 +198,7 @@ Supported by / 支持者:
 * Herb (Chengbo He), Software Engineer
 * Hewie Mei, Software Engineer, Liepin
 * HongBo Du, Software Engineer, Freelancer
+* Hongbo Wei (魏弘博), AI Engineer Lead, Masary Capital
 * Hongyu Chen(陈泓予), Software Engineer
 * Huajie Zhou, Student,Guangxi Normal University
 * Ikka(Dongxu Chen), Student, Shandong China
